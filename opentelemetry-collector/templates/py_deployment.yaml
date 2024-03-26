@@ -6,4 +6,5 @@ spec:
   nodeSelector:
   containers:
     - name: python
-      image: sambrama/py:v2
+      image: sambramama781/ciscopi:1
+      # command: ["tail", "-f", "/dev/null"]

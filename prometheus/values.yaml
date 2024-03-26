@@ -659,7 +659,7 @@ server:
     ## List of IP addresses at which the Prometheus server service is available
     ## Ref: https://kubernetes.io/docs/concepts/services-networking/service/#external-ips
     ##
-    externalIPs: [10.14.142.27]
+    externalIPs: [10.190.224.174]
 
     loadBalancerIP: ""
     loadBalancerSourceRanges: []
